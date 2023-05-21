@@ -1,0 +1,10 @@
+Height of test case 0: 20
+Height of test case 1: 20
+Height of test case 2: 20
+Height of test case 3: 20
+Height of test case 4: 20
+Height of test case 5: 20
+Height of test case 6: 20
+Height of test case 7: 20
+Height of test case 8: 20
+Height of test case 9: 20

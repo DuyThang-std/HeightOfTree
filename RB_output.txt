@@ -1,0 +1,10 @@
+Height of test case 0: 37
+Height of test case 1: 37
+Height of test case 2: 37
+Height of test case 3: 37
+Height of test case 4: 37
+Height of test case 5: 37
+Height of test case 6: 37
+Height of test case 7: 37
+Height of test case 8: 37
+Height of test case 9: 37
